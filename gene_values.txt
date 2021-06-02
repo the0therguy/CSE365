@@ -1,0 +1,1715 @@
+iteration0:  chromosome [7 1] and value 63
+iteration0:  chromosome [0 3] and value -29
+iteration0:  chromosome [ 4 15] and value 39
+iteration2:  chromosome [7 0] and value 60
+iteration2:  chromosome [ 3 15] and value 25
+iteration3:  chromosome [7 0] and value 60
+iteration3:  chromosome [7 1] and value 63
+iteration3:  chromosome [15  3] and value 421
+iteration4:  chromosome [15  1] and value 415
+iteration4:  chromosome [7 0] and value 60
+iteration6:  chromosome [15  1] and value 415
+iteration6:  chromosome [15 14] and value 454
+iteration7:  chromosome [15 13] and value 451
+iteration7:  chromosome [15  2] and value 418
+iteration7:  chromosome [0 1] and value -35
+iteration7:  chromosome [15  5] and value 427
+iteration7:  chromosome [0 2] and value -32
+iteration7:  chromosome [0 0] and value -38
+iteration8:  chromosome [15 13] and value 451
+iteration8:  chromosome [15  5] and value 427
+iteration8:  chromosome [0 2] and value -32
+iteration8:  chromosome [15  2] and value 418
+iteration8:  chromosome [0 6] and value -20
+iteration8:  chromosome [0 0] and value -38
+iteration9:  chromosome [15 13] and value 451
+iteration9:  chromosome [5 5] and value 27
+iteration9:  chromosome [0 6] and value -20
+iteration9:  chromosome [15  2] and value 418
+iteration9:  chromosome [0 0] and value -38
+iteration9:  chromosome [0 2] and value -32
+iteration10:  chromosome [15 13] and value 451
+iteration10:  chromosome [15  2] and value 418
+iteration10:  chromosome [0 5] and value -23
+iteration10:  chromosome [5 6] and value 30
+iteration10:  chromosome [0 0] and value -38
+iteration10:  chromosome [1 2] and value -30
+iteration11:  chromosome [15 14] and value 454
+iteration11:  chromosome [15  1] and value 415
+iteration11:  chromosome [0 1] and value -35
+iteration11:  chromosome [5 6] and value 30
+iteration11:  chromosome [1 0] and value -36
+iteration11:  chromosome [0 2] and value -32
+iteration12:  chromosome [15 15] and value 457
+iteration12:  chromosome [15  0] and value 412
+iteration12:  chromosome [10  6] and value 180
+iteration12:  chromosome [5 2] and value 18
+iteration12:  chromosome [5 1] and value 15
+iteration12:  chromosome [0 0] and value -38
+iteration13:  chromosome [15  0] and value 412
+iteration13:  chromosome [15 15] and value 457
+iteration13:  chromosome [5 2] and value 18
+iteration13:  chromosome [2 6] and value -12
+iteration13:  chromosome [0 0] and value -38
+iteration13:  chromosome [15  5] and value 427
+iteration14:  chromosome [15  5] and value 427
+iteration14:  chromosome [15 15] and value 457
+iteration14:  chromosome [15  0] and value 412
+iteration14:  chromosome [5 8] and value 36
+iteration14:  chromosome [2 6] and value -12
+iteration14:  chromosome [0 0] and value -38
+iteration15:  chromosome [15 11] and value 445
+iteration15:  chromosome [15  7] and value 433
+iteration15:  chromosome [5 8] and value 36
+iteration15:  chromosome [10  0] and value 162
+iteration15:  chromosome [0 6] and value -20
+iteration15:  chromosome [10  0] and value 162
+iteration16:  chromosome [15 11] and value 445
+iteration16:  chromosome [15  7] and value 433
+iteration16:  chromosome [10  0] and value 162
+iteration16:  chromosome [10  0] and value 162
+iteration16:  chromosome [1 8] and value -12
+iteration16:  chromosome [0 6] and value -20
+iteration17:  chromosome [15  7] and value 433
+iteration17:  chromosome [15 11] and value 445
+iteration17:  chromosome [10  0] and value 162
+iteration17:  chromosome [10  0] and value 162
+iteration18:  chromosome [15 11] and value 445
+iteration18:  chromosome [14  7] and value 375
+iteration18:  chromosome [10  0] and value 162
+iteration18:  chromosome [10  0] and value 162
+iteration18:  chromosome [ 4 12] and value 30
+iteration19:  chromosome [13  7] and value 321
+iteration19:  chromosome [14 11] and value 387
+iteration19:  chromosome [10  0] and value 162
+iteration19:  chromosome [10  0] and value 162
+iteration19:  chromosome [ 4 12] and value 30
+iteration20:  chromosome [14  7] and value 375
+iteration20:  chromosome [13 11] and value 333
+iteration20:  chromosome [10  0] and value 162
+iteration20:  chromosome [10  0] and value 162
+iteration20:  chromosome [ 4 11] and value 27
+iteration20:  chromosome [0 0] and value -38
+iteration21:  chromosome [13  7] and value 321
+iteration21:  chromosome [ 8 11] and value 123
+iteration21:  chromosome [10  0] and value 162
+iteration21:  chromosome [10  0] and value 162
+iteration21:  chromosome [ 4 11] and value 27
+iteration21:  chromosome [0 0] and value -38
+iteration22:  chromosome [14  0] and value 354
+iteration22:  chromosome [ 5 15] and value 57
+iteration22:  chromosome [10  0] and value 162
+iteration22:  chromosome [ 8 11] and value 123
+iteration23:  chromosome [10 15] and value 207
+iteration23:  chromosome [14  6] and value 372
+iteration23:  chromosome [ 8 15] and value 135
+iteration23:  chromosome [10  8] and value 186
+iteration24:  chromosome [14  0] and value 354
+iteration24:  chromosome [15  6] and value 430
+iteration24:  chromosome [10  0] and value 162
+iteration24:  chromosome [10 14] and value 204
+iteration24:  chromosome [8 9] and value 117
+iteration25:  chromosome [0 6] and value -20
+iteration26:  chromosome [10 10] and value 192
+iteration26:  chromosome [10 12] and value 198
+iteration26:  chromosome [8 0] and value 90
+iteration26:  chromosome [ 4 15] and value 39
+iteration26:  chromosome [0 6] and value -20
+iteration26:  chromosome [0 3] and value -29
+iteration27:  chromosome [10 14] and value 204
+iteration27:  chromosome [5 0] and value 12
+iteration27:  chromosome [8 0] and value 90
+iteration27:  chromosome [ 4 15] and value 39
+iteration27:  chromosome [0 3] and value -29
+iteration27:  chromosome [0 6] and value -20
+iteration28:  chromosome [ 8 12] and value 126
+iteration28:  chromosome [12 10] and value 280
+iteration29:  chromosome [12 12] and value 286
+iteration29:  chromosome [ 8 10] and value 120
+iteration29:  chromosome [0 1] and value -35
+iteration29:  chromosome [15 13] and value 451
+iteration29:  chromosome [0 2] and value -32
+iteration29:  chromosome [0 7] and value -17
+iteration30:  chromosome [12 12] and value 286
+iteration30:  chromosome [15 13] and value 451
+iteration30:  chromosome [ 8 15] and value 135
+iteration30:  chromosome [14  5] and value 369
+iteration30:  chromosome [0 1] and value -35
+iteration30:  chromosome [0 2] and value -32
+iteration31:  chromosome [10 13] and value 201
+iteration31:  chromosome [15  5] and value 427
+iteration31:  chromosome [12 15] and value 295
+iteration31:  chromosome [8 9] and value 117
+iteration31:  chromosome [0 1] and value -35
+iteration31:  chromosome [11  2] and value 210
+iteration32:  chromosome [0 5] and value -23
+iteration32:  chromosome [15 15] and value 457
+iteration32:  chromosome [10  5] and value 177
+iteration32:  chromosome [11 10] and value 234
+iteration33:  chromosome [15 10] and value 442
+iteration33:  chromosome [11 15] and value 249
+iteration33:  chromosome [5 5] and value 27
+iteration34:  chromosome [ 7 15] and value 105
+iteration34:  chromosome [15 10] and value 442
+iteration34:  chromosome [5 5] and value 27
+iteration35:  chromosome [15 10] and value 442
+iteration35:  chromosome [ 6 15] and value 79
+iteration35:  chromosome [5 5] and value 27
+iteration35:  chromosome [5 1] and value 15
+iteration36:  chromosome [10 10] and value 192
+iteration36:  chromosome [15  0] and value 412
+iteration36:  chromosome [13 15] and value 345
+iteration36:  chromosome [10  5] and value 177
+iteration37:  chromosome [15 15] and value 457
+iteration37:  chromosome [13  0] and value 300
+iteration37:  chromosome [10 10] and value 192
+iteration37:  chromosome [8 5] and value 105
+iteration37:  chromosome [5 2] and value 18
+iteration37:  chromosome [0 9] and value -11
+iteration38:  chromosome [15  0] and value 412
+iteration38:  chromosome [13 15] and value 345
+iteration38:  chromosome [10  5] and value 177
+iteration38:  chromosome [ 8 10] and value 120
+iteration39:  chromosome [15 15] and value 457
+iteration39:  chromosome [13  0] and value 300
+iteration39:  chromosome [ 8 10] and value 120
+iteration39:  chromosome [10  5] and value 177
+iteration40:  chromosome [11 15] and value 249
+iteration40:  chromosome [15  0] and value 412
+iteration40:  chromosome [7 2] and value 66
+iteration40:  chromosome [10 13] and value 201
+iteration41:  chromosome [15 15] and value 457
+iteration41:  chromosome [11  0] and value 204
+iteration41:  chromosome [15 13] and value 451
+iteration41:  chromosome [12  2] and value 256
+iteration42:  chromosome [15 15] and value 457
+iteration42:  chromosome [15 13] and value 451
+iteration42:  chromosome [15 14] and value 454
+iteration42:  chromosome [8 4] and value 102
+iteration42:  chromosome [10 14] and value 204
+iteration43:  chromosome [15 14] and value 454
+iteration43:  chromosome [15 15] and value 457
+iteration43:  chromosome [15 14] and value 454
+iteration43:  chromosome [10 13] and value 201
+iteration43:  chromosome [8 6] and value 108
+iteration43:  chromosome [6 0] and value 34
+iteration44:  chromosome [15  7] and value 433
+iteration44:  chromosome [15 15] and value 457
+iteration44:  chromosome [15 15] and value 457
+iteration44:  chromosome [10  0] and value 162
+iteration44:  chromosome [6 4] and value 46
+iteration44:  chromosome [ 8 10] and value 120
+iteration45:  chromosome [10 15] and value 207
+iteration45:  chromosome [15 15] and value 457
+iteration45:  chromosome [10  0] and value 162
+iteration45:  chromosome [15 15] and value 457
+iteration45:  chromosome [8 4] and value 102
+iteration45:  chromosome [ 6 10] and value 64
+iteration46:  chromosome [15 15] and value 457
+iteration46:  chromosome [13 15] and value 345
+iteration46:  chromosome [10  0] and value 162
+iteration46:  chromosome [10 15] and value 207
+iteration46:  chromosome [8 6] and value 108
+iteration46:  chromosome [6 0] and value 34
+iteration47:  chromosome [11 15] and value 249
+iteration47:  chromosome [15 15] and value 457
+iteration47:  chromosome [10  0] and value 162
+iteration47:  chromosome [10 15] and value 207
+iteration47:  chromosome [14  0] and value 354
+iteration47:  chromosome [11  6] and value 222
+iteration48:  chromosome [10  0] and value 162
+iteration48:  chromosome [15 15] and value 457
+iteration48:  chromosome [11 15] and value 249
+iteration48:  chromosome [11  1] and value 207
+iteration48:  chromosome [10  1] and value 165
+iteration48:  chromosome [10 14] and value 204
+iteration49:  chromosome [15 15] and value 457
+iteration49:  chromosome [11 15] and value 249
+iteration49:  chromosome [10  9] and value 189
+iteration49:  chromosome [15  1] and value 415
+iteration49:  chromosome [10  0] and value 162
+iteration49:  chromosome [10  2] and value 168
+iteration50:  chromosome [10  5] and value 177
+iteration50:  chromosome [15  3] and value 421
+iteration50:  chromosome [11  3] and value 213
+iteration50:  chromosome [10 15] and value 207
+iteration50:  chromosome [10  0] and value 162
+iteration50:  chromosome [10 10] and value 192
+iteration51:  chromosome [15  3] and value 421
+iteration51:  chromosome [11  8] and value 228
+iteration51:  chromosome [10  5] and value 177
+iteration51:  chromosome [10 15] and value 207
+iteration51:  chromosome [10  0] and value 162
+iteration51:  chromosome [10 15] and value 207
+iteration52:  chromosome [15  3] and value 421
+iteration52:  chromosome [11  8] and value 228
+iteration52:  chromosome [10 15] and value 207
+iteration52:  chromosome [10 15] and value 207
+iteration52:  chromosome [2 0] and value -30
+iteration52:  chromosome [10 10] and value 192
+iteration53:  chromosome [15  0] and value 412
+iteration53:  chromosome [11 11] and value 237
+iteration53:  chromosome [10 15] and value 207
+iteration53:  chromosome [10 15] and value 207
+iteration53:  chromosome [10  0] and value 162
+iteration53:  chromosome [ 9 10] and value 154
+iteration54:  chromosome [11 11] and value 237
+iteration54:  chromosome [15  0] and value 412
+iteration54:  chromosome [10 15] and value 207
+iteration54:  chromosome [10 15] and value 207
+iteration54:  chromosome [10  3] and value 171
+iteration54:  chromosome [ 9 10] and value 154
+iteration55:  chromosome [11  6] and value 222
+iteration55:  chromosome [15  8] and value 436
+iteration55:  chromosome [10 13] and value 201
+iteration55:  chromosome [10 15] and value 207
+iteration55:  chromosome [9 3] and value 133
+iteration55:  chromosome [10 10] and value 192
+iteration56:  chromosome [11 12] and value 240
+iteration56:  chromosome [9 4] and value 136
+iteration56:  chromosome [10 15] and value 207
+iteration56:  chromosome [10 13] and value 201
+iteration56:  chromosome [ 9 10] and value 154
+iteration56:  chromosome [10  3] and value 171
+iteration57:  chromosome [10 15] and value 207
+iteration57:  chromosome [11  0] and value 204
+iteration57:  chromosome [10 13] and value 201
+iteration57:  chromosome [6 3] and value 43
+iteration57:  chromosome [9 0] and value 124
+iteration57:  chromosome [9 6] and value 142
+iteration58:  chromosome [10  0] and value 162
+iteration58:  chromosome [11 15] and value 249
+iteration58:  chromosome [10 14] and value 204
+iteration58:  chromosome [9 5] and value 139
+iteration58:  chromosome [12  6] and value 268
+iteration58:  chromosome [9 0] and value 124
+iteration59:  chromosome [12  7] and value 271
+iteration59:  chromosome [ 3 10] and value 10
+iteration59:  chromosome [10 12] and value 198
+iteration59:  chromosome [10 10] and value 192
+iteration59:  chromosome [9 0] and value 124
+iteration59:  chromosome [ 9 15] and value 169
+iteration60:  chromosome [12  4] and value 262
+iteration60:  chromosome [10 15] and value 207
+iteration60:  chromosome [10 15] and value 207
+iteration60:  chromosome [9 0] and value 124
+iteration60:  chromosome [9 2] and value 130
+iteration60:  chromosome [3 0] and value -20
+iteration61:  chromosome [12 15] and value 295
+iteration61:  chromosome [10  0] and value 162
+iteration61:  chromosome [ 5 15] and value 57
+iteration61:  chromosome [10  2] and value 168
+iteration61:  chromosome [9 0] and value 124
+iteration61:  chromosome [6 0] and value 34
+iteration62:  chromosome [10 11] and value 195
+iteration62:  chromosome [12  7] and value 271
+iteration62:  chromosome [15  0] and value 412
+iteration62:  chromosome [0 0] and value -38
+iteration62:  chromosome [6 0] and value 34
+iteration62:  chromosome [ 5 15] and value 57
+iteration63:  chromosome [ 9 14] and value 166
+iteration63:  chromosome [15  0] and value 412
+iteration63:  chromosome [10 11] and value 195
+iteration65:  chromosome [10  5] and value 177
+iteration65:  chromosome [15 10] and value 442
+iteration65:  chromosome [ 9 11] and value 157
+iteration65:  chromosome [1 5] and value -21
+iteration65:  chromosome [0 0] and value -38
+iteration65:  chromosome [ 4 15] and value 39
+iteration66:  chromosome [15 13] and value 451
+iteration66:  chromosome [10  5] and value 177
+iteration66:  chromosome [12 11] and value 283
+iteration67:  chromosome [15 13] and value 451
+iteration67:  chromosome [12 11] and value 283
+iteration68:  chromosome [ 9 12] and value 160
+iteration68:  chromosome [15 13] and value 451
+iteration68:  chromosome [15 15] and value 457
+iteration68:  chromosome [0 5] and value -23
+iteration68:  chromosome [0 0] and value -38
+iteration68:  chromosome [1 0] and value -36
+iteration69:  chromosome [15 13] and value 451
+iteration69:  chromosome [15 15] and value 457
+iteration69:  chromosome [9 4] and value 136
+iteration69:  chromosome [0 0] and value -38
+iteration69:  chromosome [1 0] and value -36
+iteration69:  chromosome [0 0] and value -38
+iteration70:  chromosome [15 14] and value 454
+iteration70:  chromosome [15 15] and value 457
+iteration70:  chromosome [9 4] and value 136
+iteration70:  chromosome [1 0] and value -36
+iteration70:  chromosome [0 0] and value -38
+iteration70:  chromosome [0 0] and value -38
+iteration71:  chromosome [15  0] and value 412
+iteration71:  chromosome [15 15] and value 457
+iteration71:  chromosome [ 9 10] and value 154
+iteration71:  chromosome [1 0] and value -36
+iteration71:  chromosome [0 0] and value -38
+iteration71:  chromosome [0 0] and value -38
+iteration72:  chromosome [15  0] and value 412
+iteration72:  chromosome [15 10] and value 442
+iteration72:  chromosome [ 9 10] and value 154
+iteration72:  chromosome [1 0] and value -36
+iteration72:  chromosome [0 0] and value -38
+iteration72:  chromosome [0 0] and value -38
+iteration73:  chromosome [15  0] and value 412
+iteration73:  chromosome [ 4 10] and value 24
+iteration74:  chromosome [5 0] and value 12
+iteration74:  chromosome [11  0] and value 204
+iteration74:  chromosome [15 10] and value 442
+iteration75:  chromosome [15  0] and value 412
+iteration75:  chromosome [11 10] and value 234
+iteration75:  chromosome [15  4] and value 424
+iteration75:  chromosome [0 0] and value -38
+iteration75:  chromosome [0 8] and value -14
+iteration75:  chromosome [0 4] and value -26
+iteration76:  chromosome [15  4] and value 424
+iteration76:  chromosome [2 0] and value -30
+iteration76:  chromosome [ 8 10] and value 120
+iteration76:  chromosome [15  8] and value 436
+iteration76:  chromosome [0 4] and value -26
+iteration76:  chromosome [0 0] and value -38
+iteration77:  chromosome [15  4] and value 424
+iteration77:  chromosome [15  8] and value 436
+iteration78:  chromosome [15  4] and value 424
+iteration78:  chromosome [15  8] and value 436
+iteration79:  chromosome [6 4] and value 46
+iteration79:  chromosome [15  8] and value 436
+iteration80:  chromosome [ 6 12] and value 70
+iteration80:  chromosome [15  0] and value 412
+iteration80:  chromosome [ 4 14] and value 36
+iteration80:  chromosome [ 2 14] and value 12
+iteration81:  chromosome [15  0] and value 412
+iteration81:  chromosome [ 6 12] and value 70
+iteration81:  chromosome [ 4 14] and value 36
+iteration81:  chromosome [ 2 14] and value 12
+iteration82:  chromosome [10  0] and value 162
+iteration83:  chromosome [1 0] and value -36
+iteration83:  chromosome [10 10] and value 192
+iteration83:  chromosome [ 2 14] and value 12
+iteration83:  chromosome [ 4 14] and value 36
+iteration84:  chromosome [10 10] and value 192
+iteration84:  chromosome [ 4 14] and value 36
+iteration85:  chromosome [ 9 10] and value 154
+iteration85:  chromosome [10 14] and value 204
+iteration86:  chromosome [15 14] and value 454
+iteration87:  chromosome [15 14] and value 454
+iteration87:  chromosome [15  0] and value 412
+iteration87:  chromosome [ 8 15] and value 135
+iteration87:  chromosome [13  0] and value 300
+iteration87:  chromosome [0 0] and value -38
+iteration88:  chromosome [15  0] and value 412
+iteration88:  chromosome [15 14] and value 454
+iteration88:  chromosome [12 15] and value 295
+iteration88:  chromosome [9 0] and value 124
+iteration89:  chromosome [15 12] and value 448
+iteration89:  chromosome [15 10] and value 442
+iteration89:  chromosome [9 0] and value 124
+iteration89:  chromosome [13 15] and value 345
+iteration90:  chromosome [15 12] and value 448
+iteration90:  chromosome [15 10] and value 442
+iteration90:  chromosome [13  0] and value 300
+iteration90:  chromosome [ 9 15] and value 169
+iteration90:  chromosome [0 5] and value -23
+iteration91:  chromosome [15 10] and value 442
+iteration91:  chromosome [ 5 12] and value 48
+iteration91:  chromosome [ 9 15] and value 169
+iteration91:  chromosome [13  0] and value 300
+iteration91:  chromosome [0 5] and value -23
+iteration92:  chromosome [15  8] and value 436
+iteration92:  chromosome [13  4] and value 312
+iteration92:  chromosome [ 9 15] and value 169
+iteration92:  chromosome [ 5 12] and value 48
+iteration92:  chromosome [12  5] and value 265
+iteration93:  chromosome [13  8] and value 324
+iteration93:  chromosome [15  4] and value 424
+iteration93:  chromosome [13  7] and value 321
+iteration93:  chromosome [ 8 11] and value 123
+iteration94:  chromosome [11  0] and value 204
+iteration94:  chromosome [15  4] and value 424
+iteration94:  chromosome [0 3] and value -29
+iteration94:  chromosome [15 15] and value 457
+iteration95:  chromosome [15  0] and value 412
+iteration95:  chromosome [15  7] and value 433
+iteration95:  chromosome [11  0] and value 204
+iteration95:  chromosome [5 0] and value 12
+iteration95:  chromosome [0 2] and value -32
+iteration95:  chromosome [0 6] and value -20
+iteration96:  chromosome [15  0] and value 412
+iteration96:  chromosome [15  7] and value 433
+iteration96:  chromosome [5 0] and value 12
+iteration96:  chromosome [11  0] and value 204
+iteration97:  chromosome [15  0] and value 412
+iteration97:  chromosome [15 14] and value 454
+iteration97:  chromosome [11  6] and value 222
+iteration97:  chromosome [5 0] and value 12
+iteration97:  chromosome [0 2] and value -32
+iteration97:  chromosome [15  6] and value 430
+iteration98:  chromosome [15  6] and value 430
+iteration98:  chromosome [15 14] and value 454
+iteration98:  chromosome [7 0] and value 60
+iteration98:  chromosome [15  6] and value 430
+iteration98:  chromosome [0 2] and value -32
+iteration98:  chromosome [9 0] and value 124
+iteration99:  chromosome [15 14] and value 454
+iteration99:  chromosome [15  6] and value 430
+iteration99:  chromosome [15  6] and value 430
+iteration99:  chromosome [9 0] and value 124
+iteration99:  chromosome [ 7 13] and value 99
+iteration99:  chromosome [0 0] and value -38
+iteration0:  chromosome [12  0] and value 250
+iteration0:  chromosome [12  5] and value 265
+iteration0:  chromosome [ 2 15] and value 15
+iteration0:  chromosome [0 0] and value -38
+iteration1:  chromosome [12  5] and value 265
+iteration1:  chromosome [12  0] and value 250
+iteration3:  chromosome [15  0] and value 412
+iteration3:  chromosome [ 7 10] and value 90
+iteration3:  chromosome [ 2 15] and value 15
+iteration4:  chromosome [7 4] and value 72
+iteration4:  chromosome [15 11] and value 445
+iteration4:  chromosome [ 2 15] and value 15
+iteration5:  chromosome [15  0] and value 412
+iteration5:  chromosome [ 7 15] and value 105
+iteration5:  chromosome [0 4] and value -26
+iteration5:  chromosome [ 2 15] and value 15
+iteration5:  chromosome [0 0] and value -38
+iteration5:  chromosome [8 0] and value 90
+iteration6:  chromosome [15  0] and value 412
+iteration6:  chromosome [7 5] and value 75
+iteration6:  chromosome [ 8 14] and value 132
+iteration6:  chromosome [2 1] and value -27
+iteration6:  chromosome [0 4] and value -26
+iteration6:  chromosome [0 0] and value -38
+iteration7:  chromosome [8 0] and value 90
+iteration7:  chromosome [15 14] and value 454
+iteration7:  chromosome [0 4] and value -26
+iteration7:  chromosome [15  5] and value 427
+iteration7:  chromosome [0 0] and value -38
+iteration8:  chromosome [15 13] and value 451
+iteration8:  chromosome [15  6] and value 430
+iteration8:  chromosome [8 0] and value 90
+iteration9:  chromosome [15 11] and value 445
+iteration9:  chromosome [15  5] and value 427
+iteration9:  chromosome [8 0] and value 90
+iteration10:  chromosome [15  9] and value 439
+iteration10:  chromosome [ 4 15] and value 39
+iteration11:  chromosome [1 0] and value -36
+iteration11:  chromosome [15  2] and value 418
+iteration12:  chromosome [0 3] and value -29
+iteration12:  chromosome [ 7 10] and value 90
+iteration13:  chromosome [15 10] and value 442
+iteration13:  chromosome [7 0] and value 60
+iteration14:  chromosome [15 10] and value 442
+iteration14:  chromosome [9 0] and value 124
+iteration15:  chromosome [11 10] and value 234
+iteration15:  chromosome [11  0] and value 204
+iteration16:  chromosome [11 10] and value 234
+iteration16:  chromosome [11  5] and value 219
+iteration17:  chromosome [11 15] and value 249
+iteration17:  chromosome [11  0] and value 204
+iteration18:  chromosome [11  0] and value 204
+iteration18:  chromosome [11 15] and value 249
+iteration19:  chromosome [11  0] and value 204
+iteration19:  chromosome [11 15] and value 249
+iteration19:  chromosome [0 0] and value -38
+iteration19:  chromosome [8 0] and value 90
+iteration19:  chromosome [0 0] and value -38
+iteration19:  chromosome [0 0] and value -38
+iteration20:  chromosome [11  0] and value 204
+iteration20:  chromosome [11 15] and value 249
+iteration20:  chromosome [8 0] and value 90
+iteration20:  chromosome [0 0] and value -38
+iteration20:  chromosome [0 1] and value -35
+iteration20:  chromosome [0 0] and value -38
+iteration21:  chromosome [11 15] and value 249
+iteration21:  chromosome [12  0] and value 250
+iteration21:  chromosome [8 1] and value 93
+iteration21:  chromosome [0 0] and value -38
+iteration21:  chromosome [0 0] and value -38
+iteration21:  chromosome [0 0] and value -38
+iteration22:  chromosome [12 15] and value 295
+iteration22:  chromosome [11  0] and value 204
+iteration22:  chromosome [8 1] and value 93
+iteration23:  chromosome [15  1] and value 415
+iteration23:  chromosome [ 4 14] and value 36
+iteration23:  chromosome [8 1] and value 93
+iteration24:  chromosome [0 1] and value -35
+iteration24:  chromosome [14  1] and value 357
+iteration25:  chromosome [12  0] and value 250
+iteration25:  chromosome [12 15] and value 295
+iteration25:  chromosome [0 9] and value -11
+iteration25:  chromosome [0 5] and value -23
+iteration25:  chromosome [3 0] and value -20
+iteration25:  chromosome [0 0] and value -38
+iteration26:  chromosome [12  0] and value 250
+iteration26:  chromosome [12 15] and value 295
+iteration26:  chromosome [3 0] and value -20
+iteration28:  chromosome [15 15] and value 457
+iteration28:  chromosome [7 1] and value 63
+iteration29:  chromosome [ 7 15] and value 105
+iteration29:  chromosome [7 1] and value 63
+iteration30:  chromosome [ 7 15] and value 105
+iteration30:  chromosome [9 1] and value 127
+iteration31:  chromosome [11  7] and value 225
+iteration31:  chromosome [3 3] and value -11
+iteration32:  chromosome [0 7] and value -17
+iteration32:  chromosome [15 15] and value 457
+iteration32:  chromosome [0 4] and value -26
+iteration32:  chromosome [ 4 14] and value 36
+iteration32:  chromosome [3 0] and value -20
+iteration33:  chromosome [15  0] and value 412
+iteration33:  chromosome [ 4 15] and value 39
+iteration33:  chromosome [0 7] and value -17
+iteration34:  chromosome [ 4 15] and value 39
+iteration34:  chromosome [2 0] and value -30
+iteration34:  chromosome [0 0] and value -38
+iteration35:  chromosome [ 4 10] and value 24
+iteration36:  chromosome [0 1] and value -35
+iteration36:  chromosome [15 10] and value 442
+iteration36:  chromosome [3 0] and value -20
+iteration38:  chromosome [15  8] and value 436
+iteration38:  chromosome [15  0] and value 412
+iteration39:  chromosome [15  8] and value 436
+iteration39:  chromosome [15  0] and value 412
+iteration39:  chromosome [0 0] and value -38
+iteration39:  chromosome [0 5] and value -23
+iteration39:  chromosome [0 0] and value -38
+iteration39:  chromosome [0 0] and value -38
+iteration40:  chromosome [15  8] and value 436
+iteration40:  chromosome [15  0] and value 412
+iteration40:  chromosome [0 5] and value -23
+iteration40:  chromosome [0 0] and value -38
+iteration40:  chromosome [0 8] and value -14
+iteration40:  chromosome [0 0] and value -38
+iteration41:  chromosome [15  8] and value 436
+iteration41:  chromosome [8 0] and value 90
+iteration41:  chromosome [0 5] and value -23
+iteration41:  chromosome [0 8] and value -14
+iteration41:  chromosome [0 0] and value -38
+iteration41:  chromosome [0 0] and value -38
+iteration42:  chromosome [4 8] and value 18
+iteration42:  chromosome [15  0] and value 412
+iteration42:  chromosome [0 5] and value -23
+iteration42:  chromosome [0 8] and value -14
+iteration42:  chromosome [0 0] and value -38
+iteration42:  chromosome [0 0] and value -38
+iteration43:  chromosome [15  0] and value 412
+iteration43:  chromosome [4 8] and value 18
+iteration43:  chromosome [0 7] and value -17
+iteration43:  chromosome [0 8] and value -14
+iteration43:  chromosome [0 0] and value -38
+iteration43:  chromosome [0 0] and value -38
+iteration44:  chromosome [0 0] and value -38
+iteration44:  chromosome [15  8] and value 436
+iteration45:  chromosome [15 15] and value 457
+iteration45:  chromosome [1 0] and value -36
+iteration45:  chromosome [0 0] and value -38
+iteration45:  chromosome [0 0] and value -38
+iteration45:  chromosome [0 0] and value -38
+iteration45:  chromosome [11  0] and value 204
+iteration46:  chromosome [15 15] and value 457
+iteration46:  chromosome [11  0] and value 204
+iteration46:  chromosome [0 0] and value -38
+iteration46:  chromosome [5 0] and value 12
+iteration46:  chromosome [0 3] and value -29
+iteration46:  chromosome [0 0] and value -38
+iteration47:  chromosome [15 15] and value 457
+iteration47:  chromosome [11  0] and value 204
+iteration47:  chromosome [ 5 15] and value 57
+iteration47:  chromosome [0 0] and value -38
+iteration47:  chromosome [0 8] and value -14
+iteration47:  chromosome [0 0] and value -38
+iteration48:  chromosome [15  0] and value 412
+iteration48:  chromosome [ 6 15] and value 79
+iteration48:  chromosome [0 0] and value -38
+iteration48:  chromosome [10 14] and value 204
+iteration48:  chromosome [0 0] and value -38
+iteration48:  chromosome [0 0] and value -38
+iteration49:  chromosome [15  0] and value 412
+iteration50:  chromosome [0 0] and value -38
+iteration50:  chromosome [15 15] and value 457
+iteration50:  chromosome [4 9] and value 21
+iteration51:  chromosome [0 5] and value -23
+iteration51:  chromosome [ 7 11] and value 93
+iteration51:  chromosome [ 5 10] and value 42
+iteration51:  chromosome [5 0] and value 12
+iteration51:  chromosome [0 0] and value -38
+iteration51:  chromosome [0 0] and value -38
+iteration52:  chromosome [ 7 10] and value 90
+iteration52:  chromosome [ 5 11] and value 45
+iteration52:  chromosome [0 5] and value -23
+iteration52:  chromosome [5 0] and value 12
+iteration52:  chromosome [0 0] and value -38
+iteration52:  chromosome [14  0] and value 354
+iteration53:  chromosome [15 10] and value 442
+iteration53:  chromosome [ 5 10] and value 42
+iteration53:  chromosome [5 0] and value 12
+iteration53:  chromosome [ 5 15] and value 57
+iteration53:  chromosome [0 0] and value -38
+iteration54:  chromosome [11 15] and value 249
+iteration54:  chromosome [ 7 10] and value 90
+iteration54:  chromosome [ 5 10] and value 42
+iteration54:  chromosome [5 0] and value 12
+iteration54:  chromosome [ 7 10] and value 90
+iteration54:  chromosome [0 0] and value -38
+iteration55:  chromosome [11  5] and value 219
+iteration55:  chromosome [ 7 15] and value 105
+iteration55:  chromosome [14 10] and value 384
+iteration55:  chromosome [ 5 10] and value 42
+iteration55:  chromosome [0 0] and value -38
+iteration55:  chromosome [5 0] and value 12
+iteration56:  chromosome [15  5] and value 427
+iteration56:  chromosome [10 10] and value 192
+iteration56:  chromosome [7 8] and value 84
+iteration56:  chromosome [ 5 15] and value 57
+iteration56:  chromosome [0 0] and value -38
+iteration56:  chromosome [5 0] and value 12
+iteration57:  chromosome [0 5] and value -23
+iteration57:  chromosome [15 10] and value 442
+iteration57:  chromosome [ 3 13] and value 19
+iteration57:  chromosome [15  1] and value 415
+iteration57:  chromosome [0 0] and value -38
+iteration57:  chromosome [5 0] and value 12
+iteration58:  chromosome [15 15] and value 457
+iteration58:  chromosome [15  0] and value 412
+iteration58:  chromosome [ 3 13] and value 19
+iteration58:  chromosome [5 0] and value 12
+iteration59:  chromosome [15  0] and value 412
+iteration59:  chromosome [15 10] and value 442
+iteration60:  chromosome [15  8] and value 436
+iteration60:  chromosome [15  4] and value 424
+iteration61:  chromosome [15  8] and value 436
+iteration61:  chromosome [15 12] and value 448
+iteration61:  chromosome [13 10] and value 330
+iteration61:  chromosome [ 4 10] and value 24
+iteration61:  chromosome [0 8] and value -14
+iteration61:  chromosome [3 0] and value -20
+iteration62:  chromosome [15 12] and value 448
+iteration62:  chromosome [15  8] and value 436
+iteration62:  chromosome [12 10] and value 280
+iteration62:  chromosome [ 5 10] and value 42
+iteration63:  chromosome [ 8 12] and value 126
+iteration63:  chromosome [15  8] and value 436
+iteration63:  chromosome [12 10] and value 280
+iteration63:  chromosome [ 5 10] and value 42
+iteration63:  chromosome [15 13] and value 451
+iteration63:  chromosome [0 0] and value -38
+iteration64:  chromosome [15  8] and value 436
+iteration64:  chromosome [ 4 13] and value 33
+iteration64:  chromosome [12 10] and value 280
+iteration64:  chromosome [ 8 12] and value 126
+iteration66:  chromosome [5 8] and value 36
+iteration66:  chromosome [15 12] and value 448
+iteration66:  chromosome [ 8 12] and value 126
+iteration66:  chromosome [8 5] and value 105
+iteration69:  chromosome [14 13] and value 393
+iteration69:  chromosome [ 5 12] and value 48
+iteration70:  chromosome [13 13] and value 339
+iteration70:  chromosome [10 12] and value 198
+iteration70:  chromosome [13  2] and value 306
+iteration70:  chromosome [ 5 13] and value 51
+iteration71:  chromosome [13  2] and value 306
+iteration71:  chromosome [13 13] and value 339
+iteration71:  chromosome [ 5 13] and value 51
+iteration71:  chromosome [10 12] and value 198
+iteration71:  chromosome [12 10] and value 280
+iteration71:  chromosome [0 8] and value -14
+iteration72:  chromosome [13 14] and value 342
+iteration72:  chromosome [2 1] and value -27
+iteration72:  chromosome [14  0] and value 354
+iteration73:  chromosome [13  0] and value 300
+iteration73:  chromosome [14 14] and value 396
+iteration73:  chromosome [8 0] and value 90
+iteration73:  chromosome [ 4 15] and value 39
+iteration73:  chromosome [12  0] and value 250
+iteration73:  chromosome [0 2] and value -32
+iteration74:  chromosome [ 8 12] and value 126
+iteration74:  chromosome [13 10] and value 330
+iteration74:  chromosome [12  0] and value 250
+iteration74:  chromosome [8 0] and value 90
+iteration75:  chromosome [13 10] and value 330
+iteration75:  chromosome [12  0] and value 250
+iteration75:  chromosome [ 8 12] and value 126
+iteration75:  chromosome [8 0] and value 90
+iteration75:  chromosome [10  7] and value 183
+iteration76:  chromosome [12  1] and value 253
+iteration76:  chromosome [13  0] and value 300
+iteration76:  chromosome [10  1] and value 165
+iteration76:  chromosome [ 8 15] and value 135
+iteration76:  chromosome [8 0] and value 90
+iteration77:  chromosome [12  2] and value 256
+iteration77:  chromosome [13  0] and value 300
+iteration77:  chromosome [8 7] and value 111
+iteration77:  chromosome [10  3] and value 171
+iteration77:  chromosome [8 0] and value 90
+iteration78:  chromosome [12  2] and value 256
+iteration78:  chromosome [13  6] and value 318
+iteration78:  chromosome [10  7] and value 183
+iteration78:  chromosome [8 3] and value 99
+iteration79:  chromosome [5 6] and value 30
+iteration79:  chromosome [12  2] and value 256
+iteration79:  chromosome [8 5] and value 105
+iteration79:  chromosome [10  7] and value 183
+iteration79:  chromosome [8 0] and value 90
+iteration80:  chromosome [12  7] and value 271
+iteration80:  chromosome [10  2] and value 168
+iteration80:  chromosome [8 0] and value 90
+iteration80:  chromosome [6 5] and value 49
+iteration81:  chromosome [14  5] and value 369
+iteration81:  chromosome [0 3] and value -29
+iteration81:  chromosome [8 5] and value 105
+iteration81:  chromosome [6 0] and value 34
+iteration81:  chromosome [4 6] and value 12
+iteration81:  chromosome [10  3] and value 171
+iteration82:  chromosome [14 15] and value 399
+iteration82:  chromosome [10  5] and value 177
+iteration82:  chromosome [6 5] and value 49
+iteration82:  chromosome [8 0] and value 90
+iteration83:  chromosome [14 11] and value 387
+iteration83:  chromosome [10  7] and value 183
+iteration83:  chromosome [ 8 10] and value 120
+iteration83:  chromosome [6 0] and value 34
+iteration83:  chromosome [4 6] and value 12
+iteration83:  chromosome [0 3] and value -29
+iteration84:  chromosome [14  7] and value 375
+iteration84:  chromosome [10  3] and value 171
+iteration84:  chromosome [ 8 10] and value 120
+iteration84:  chromosome [6 0] and value 34
+iteration84:  chromosome [0 3] and value -29
+iteration84:  chromosome [4 6] and value 12
+iteration85:  chromosome [10  7] and value 183
+iteration85:  chromosome [14  3] and value 363
+iteration85:  chromosome [12 10] and value 280
+iteration86:  chromosome [14 10] and value 384
+iteration86:  chromosome [12  3] and value 259
+iteration86:  chromosome [4 7] and value 15
+iteration86:  chromosome [10  3] and value 171
+iteration86:  chromosome [4 6] and value 12
+iteration86:  chromosome [10  0] and value 162
+iteration87:  chromosome [12  3] and value 259
+iteration87:  chromosome [14 10] and value 384
+iteration87:  chromosome [10  0] and value 162
+iteration87:  chromosome [ 5 15] and value 57
+iteration87:  chromosome [4 6] and value 12
+iteration87:  chromosome [4 7] and value 15
+iteration88:  chromosome [14 15] and value 399
+iteration88:  chromosome [12  0] and value 250
+iteration88:  chromosome [15 15] and value 457
+iteration88:  chromosome [0 0] and value -38
+iteration88:  chromosome [4 6] and value 12
+iteration88:  chromosome [4 6] and value 12
+iteration89:  chromosome [10 15] and value 207
+iteration89:  chromosome [15 15] and value 457
+iteration89:  chromosome [7 0] and value 60
+iteration89:  chromosome [4 6] and value 12
+iteration89:  chromosome [0 0] and value -38
+iteration89:  chromosome [4 6] and value 12
+iteration90:  chromosome [15 15] and value 457
+iteration90:  chromosome [10 15] and value 207
+iteration90:  chromosome [1 6] and value -18
+iteration90:  chromosome [13  0] and value 300
+iteration90:  chromosome [4 6] and value 12
+iteration90:  chromosome [0 0] and value -38
+iteration91:  chromosome [ 5 15] and value 57
+iteration91:  chromosome [15 12] and value 448
+iteration91:  chromosome [12 10] and value 280
+iteration93:  chromosome [11  0] and value 204
+iteration93:  chromosome [ 7 10] and value 90
+iteration94:  chromosome [7 0] and value 60
+iteration94:  chromosome [11 10] and value 234
+iteration94:  chromosome [0 0] and value -38
+iteration95:  chromosome [12 10] and value 280
+iteration95:  chromosome [7 0] and value 60
+iteration95:  chromosome [15 15] and value 457
+iteration96:  chromosome [12 10] and value 280
+iteration96:  chromosome [15 15] and value 457
+iteration96:  chromosome [15  0] and value 412
+iteration97:  chromosome [15  0] and value 412
+iteration97:  chromosome [15 15] and value 457
+iteration97:  chromosome [ 8 11] and value 123
+iteration97:  chromosome [ 8 10] and value 120
+iteration98:  chromosome [15  1] and value 415
+iteration98:  chromosome [15 14] and value 454
+iteration98:  chromosome [ 8 10] and value 120
+iteration98:  chromosome [8 5] and value 105
+iteration98:  chromosome [3 0] and value -20
+iteration99:  chromosome [15 14] and value 454
+iteration99:  chromosome [15 14] and value 454
+iteration99:  chromosome [8 5] and value 105
+iteration99:  chromosome [ 8 10] and value 120
+iteration99:  chromosome [3 0] and value -20
+iteration0:  chromosome [15  0] and value 412
+iteration1:  chromosome [15 14] and value 454
+iteration1:  chromosome [15  0] and value 412
+iteration1:  chromosome [0 5] and value -23
+iteration1:  chromosome [6 5] and value 49
+iteration1:  chromosome [0 7] and value -17
+iteration1:  chromosome [0 7] and value -17
+iteration2:  chromosome [15  0] and value 412
+iteration2:  chromosome [15 14] and value 454
+iteration2:  chromosome [6 7] and value 55
+iteration2:  chromosome [2 5] and value -15
+iteration2:  chromosome [0 5] and value -23
+iteration2:  chromosome [0 7] and value -17
+iteration3:  chromosome [15 13] and value 451
+iteration3:  chromosome [15 14] and value 454
+iteration3:  chromosome [2 5] and value -15
+iteration3:  chromosome [6 7] and value 55
+iteration3:  chromosome [0 5] and value -23
+iteration3:  chromosome [0 7] and value -17
+iteration4:  chromosome [15 15] and value 457
+iteration4:  chromosome [15  0] and value 412
+iteration4:  chromosome [6 3] and value 43
+iteration5:  chromosome [15  0] and value 412
+iteration5:  chromosome [15 15] and value 457
+iteration5:  chromosome [13  3] and value 309
+iteration5:  chromosome [6 7] and value 55
+iteration5:  chromosome [0 3] and value -29
+iteration6:  chromosome [3 0] and value -20
+iteration6:  chromosome [15 15] and value 457
+iteration6:  chromosome [14  7] and value 375
+iteration6:  chromosome [5 3] and value 21
+iteration6:  chromosome [0 3] and value -29
+iteration7:  chromosome [13 15] and value 345
+iteration7:  chromosome [15  7] and value 433
+iteration7:  chromosome [5 3] and value 21
+iteration8:  chromosome [11  7] and value 225
+iteration8:  chromosome [15 15] and value 457
+iteration8:  chromosome [5 3] and value 21
+iteration8:  chromosome [ 5 15] and value 57
+iteration8:  chromosome [0 0] and value -38
+iteration8:  chromosome [ 6 15] and value 79
+iteration9:  chromosome [ 7 15] and value 105
+iteration9:  chromosome [15  7] and value 433
+iteration9:  chromosome [ 5 15] and value 57
+iteration9:  chromosome [ 6 15] and value 79
+iteration9:  chromosome [0 3] and value -29
+iteration9:  chromosome [3 0] and value -20
+iteration10:  chromosome [ 8 15] and value 135
+iteration10:  chromosome [15  7] and value 433
+iteration10:  chromosome [ 5 15] and value 57
+iteration10:  chromosome [ 6 15] and value 79
+iteration10:  chromosome [0 3] and value -29
+iteration10:  chromosome [15  0] and value 412
+iteration11:  chromosome [15  0] and value 412
+iteration11:  chromosome [15  7] and value 433
+iteration12:  chromosome [15  0] and value 412
+iteration12:  chromosome [15  7] and value 433
+iteration12:  chromosome [15 15] and value 457
+iteration12:  chromosome [0 3] and value -29
+iteration13:  chromosome [15 15] and value 457
+iteration13:  chromosome [15  7] and value 433
+iteration13:  chromosome [0 0] and value -38
+iteration13:  chromosome [ 7 15] and value 105
+iteration14:  chromosome [15 15] and value 457
+iteration14:  chromosome [1 7] and value -15
+iteration15:  chromosome [ 8 15] and value 135
+iteration15:  chromosome [15 15] and value 457
+iteration15:  chromosome [ 2 15] and value 15
+iteration15:  chromosome [0 7] and value -17
+iteration15:  chromosome [0 0] and value -38
+iteration16:  chromosome [ 8 15] and value 135
+iteration16:  chromosome [15 15] and value 457
+iteration16:  chromosome [ 2 15] and value 15
+iteration16:  chromosome [0 6] and value -20
+iteration16:  chromosome [0 7] and value -17
+iteration16:  chromosome [0 0] and value -38
+iteration19:  chromosome [14  5] and value 369
+iteration19:  chromosome [10 15] and value 207
+iteration20:  chromosome [14  7] and value 375
+iteration20:  chromosome [10 11] and value 195
+iteration20:  chromosome [12 13] and value 289
+iteration20:  chromosome [15  7] and value 433
+iteration20:  chromosome [0 0] and value -38
+iteration20:  chromosome [0 8] and value -14
+iteration21:  chromosome [15  7] and value 433
+iteration21:  chromosome [14 10] and value 384
+iteration21:  chromosome [12 13] and value 289
+iteration21:  chromosome [10 11] and value 195
+iteration21:  chromosome [0 8] and value -14
+iteration21:  chromosome [0 0] and value -38
+iteration22:  chromosome [14  7] and value 375
+iteration22:  chromosome [15 10] and value 442
+iteration22:  chromosome [10 15] and value 207
+iteration22:  chromosome [12  9] and value 277
+iteration22:  chromosome [0 8] and value -14
+iteration22:  chromosome [10  0] and value 162
+iteration23:  chromosome [13  4] and value 312
+iteration23:  chromosome [15 10] and value 442
+iteration23:  chromosome [12 15] and value 295
+iteration23:  chromosome [10  9] and value 189
+iteration23:  chromosome [10  0] and value 162
+iteration23:  chromosome [0 8] and value -14
+iteration24:  chromosome [15  0] and value 412
+iteration24:  chromosome [13  6] and value 318
+iteration24:  chromosome [12 15] and value 295
+iteration24:  chromosome [10  9] and value 189
+iteration24:  chromosome [10 11] and value 195
+iteration24:  chromosome [0 0] and value -38
+iteration25:  chromosome [10 12] and value 198
+iteration25:  chromosome [15  0] and value 412
+iteration25:  chromosome [10 11] and value 195
+iteration25:  chromosome [12 15] and value 295
+iteration25:  chromosome [10  0] and value 162
+iteration25:  chromosome [0 9] and value -11
+iteration26:  chromosome [12 14] and value 292
+iteration26:  chromosome [15  1] and value 415
+iteration26:  chromosome [12 15] and value 295
+iteration26:  chromosome [10  0] and value 162
+iteration27:  chromosome [15  3] and value 421
+iteration27:  chromosome [12  5] and value 265
+iteration27:  chromosome [14  8] and value 378
+iteration27:  chromosome [12 12] and value 286
+iteration27:  chromosome [ 8 15] and value 135
+iteration28:  chromosome [15  3] and value 421
+iteration28:  chromosome [14  8] and value 378
+iteration28:  chromosome [12  9] and value 277
+iteration28:  chromosome [12  0] and value 250
+iteration28:  chromosome [8 0] and value 90
+iteration28:  chromosome [ 4 15] and value 39
+iteration29:  chromosome [13  8] and value 324
+iteration29:  chromosome [15  3] and value 421
+iteration29:  chromosome [12  8] and value 274
+iteration29:  chromosome [12  2] and value 256
+iteration29:  chromosome [ 4 15] and value 39
+iteration29:  chromosome [10  0] and value 162
+iteration30:  chromosome [13  3] and value 309
+iteration30:  chromosome [10  8] and value 186
+iteration30:  chromosome [12  8] and value 274
+iteration30:  chromosome [12  2] and value 256
+iteration31:  chromosome [13  0] and value 300
+iteration31:  chromosome [13 11] and value 333
+iteration31:  chromosome [10  2] and value 168
+iteration31:  chromosome [12  8] and value 274
+iteration31:  chromosome [4 6] and value 12
+iteration31:  chromosome [10  9] and value 189
+iteration32:  chromosome [13  8] and value 324
+iteration32:  chromosome [13 15] and value 345
+iteration32:  chromosome [10  8] and value 186
+iteration32:  chromosome [12  9] and value 277
+iteration33:  chromosome [14  0] and value 354
+iteration33:  chromosome [13 14] and value 342
+iteration33:  chromosome [14  9] and value 381
+iteration33:  chromosome [0 8] and value -14
+iteration34:  chromosome [14 11] and value 387
+iteration34:  chromosome [14  2] and value 360
+iteration34:  chromosome [0 5] and value -23
+iteration34:  chromosome [15 14] and value 454
+iteration34:  chromosome [0 0] and value -38
+iteration34:  chromosome [ 4 12] and value 30
+iteration35:  chromosome [15 11] and value 445
+iteration35:  chromosome [14 14] and value 396
+iteration35:  chromosome [14  2] and value 360
+iteration35:  chromosome [ 4 12] and value 30
+iteration35:  chromosome [0 0] and value -38
+iteration36:  chromosome [13  0] and value 300
+iteration36:  chromosome [10 15] and value 207
+iteration36:  chromosome [14 12] and value 390
+iteration37:  chromosome [14 12] and value 390
+iteration37:  chromosome [13  0] and value 300
+iteration37:  chromosome [ 8 15] and value 135
+iteration37:  chromosome [ 4 15] and value 39
+iteration37:  chromosome [0 2] and value -32
+iteration37:  chromosome [12  0] and value 250
+iteration38:  chromosome [13 12] and value 336
+iteration38:  chromosome [14  7] and value 375
+iteration38:  chromosome [8 0] and value 90
+iteration38:  chromosome [12 15] and value 295
+iteration38:  chromosome [ 4 15] and value 39
+iteration38:  chromosome [0 2] and value -32
+iteration39:  chromosome [13  4] and value 312
+iteration39:  chromosome [14 15] and value 399
+iteration39:  chromosome [12  1] and value 253
+iteration39:  chromosome [ 8 14] and value 132
+iteration39:  chromosome [4 9] and value 21
+iteration39:  chromosome [0 7] and value -17
+iteration40:  chromosome [15 15] and value 457
+iteration40:  chromosome [0 4] and value -26
+iteration40:  chromosome [8 6] and value 108
+iteration40:  chromosome [6 9] and value 61
+iteration40:  chromosome [4 7] and value 15
+iteration40:  chromosome [0 9] and value -11
+iteration42:  chromosome [15 11] and value 445
+iteration42:  chromosome [6 7] and value 55
+iteration42:  chromosome [11 13] and value 243
+iteration42:  chromosome [1 3] and value -27
+iteration42:  chromosome [0 3] and value -29
+iteration42:  chromosome [0 1] and value -35
+iteration43:  chromosome [14 11] and value 387
+iteration43:  chromosome [15 13] and value 451
+iteration43:  chromosome [6 7] and value 55
+iteration43:  chromosome [1 3] and value -27
+iteration43:  chromosome [0 1] and value -35
+iteration43:  chromosome [0 3] and value -29
+iteration44:  chromosome [10 11] and value 195
+iteration44:  chromosome [ 4 13] and value 33
+iteration44:  chromosome [1 7] and value -15
+iteration44:  chromosome [6 3] and value 43
+iteration44:  chromosome [0 1] and value -35
+iteration44:  chromosome [0 3] and value -29
+iteration45:  chromosome [14 11] and value 387
+iteration45:  chromosome [2 3] and value -21
+iteration45:  chromosome [ 4 15] and value 39
+iteration45:  chromosome [1 5] and value -21
+iteration45:  chromosome [0 1] and value -35
+iteration45:  chromosome [5 3] and value 21
+iteration46:  chromosome [ 4 11] and value 27
+iteration46:  chromosome [14 15] and value 399
+iteration46:  chromosome [1 3] and value -27
+iteration46:  chromosome [5 5] and value 27
+iteration46:  chromosome [2 1] and value -27
+iteration46:  chromosome [0 3] and value -29
+iteration47:  chromosome [12 15] and value 295
+iteration47:  chromosome [ 6 11] and value 67
+iteration47:  chromosome [8 3] and value 99
+iteration47:  chromosome [1 5] and value -21
+iteration47:  chromosome [0 3] and value -29
+iteration47:  chromosome [10  1] and value 165
+iteration48:  chromosome [12 15] and value 295
+iteration48:  chromosome [10  1] and value 165
+iteration48:  chromosome [12  3] and value 259
+iteration48:  chromosome [ 4 11] and value 27
+iteration48:  chromosome [0 3] and value -29
+iteration48:  chromosome [1 5] and value -21
+iteration49:  chromosome [12 15] and value 295
+iteration49:  chromosome [12  3] and value 259
+iteration49:  chromosome [10  3] and value 171
+iteration49:  chromosome [4 9] and value 21
+iteration49:  chromosome [6 3] and value 43
+iteration49:  chromosome [15  5] and value 427
+iteration50:  chromosome [0 5] and value -23
+iteration50:  chromosome [15 15] and value 457
+iteration50:  chromosome [10 11] and value 195
+iteration50:  chromosome [12  3] and value 259
+iteration51:  chromosome [0 9] and value -11
+iteration51:  chromosome [15  3] and value 421
+iteration51:  chromosome [10  9] and value 189
+iteration51:  chromosome [ 6 11] and value 67
+iteration51:  chromosome [0 5] and value -23
+iteration51:  chromosome [8 3] and value 99
+iteration52:  chromosome [10  1] and value 165
+iteration52:  chromosome [15 11] and value 445
+iteration52:  chromosome [8 3] and value 99
+iteration52:  chromosome [ 6 11] and value 67
+iteration52:  chromosome [0 9] and value -11
+iteration52:  chromosome [5 5] and value 27
+iteration54:  chromosome [5 1] and value 15
+iteration54:  chromosome [0 9] and value -11
+iteration55:  chromosome [ 4 11] and value 27
+iteration55:  chromosome [5 1] and value 15
+iteration55:  chromosome [0 7] and value -17
+iteration56:  chromosome [5 9] and value 39
+iteration58:  chromosome [8 3] and value 99
+iteration58:  chromosome [12 14] and value 292
+iteration58:  chromosome [2 3] and value -21
+iteration59:  chromosome [ 8 14] and value 132
+iteration59:  chromosome [12  3] and value 259
+iteration60:  chromosome [12  3] and value 259
+iteration60:  chromosome [14  3] and value 363
+iteration60:  chromosome [ 8 15] and value 135
+iteration61:  chromosome [14  3] and value 363
+iteration61:  chromosome [12  3] and value 259
+iteration61:  chromosome [8 3] and value 99
+iteration61:  chromosome [ 8 15] and value 135
+iteration61:  chromosome [10 10] and value 192
+iteration61:  chromosome [0 1] and value -35
+iteration62:  chromosome [12  3] and value 259
+iteration62:  chromosome [14  3] and value 363
+iteration62:  chromosome [10  8] and value 186
+iteration62:  chromosome [8 5] and value 105
+iteration62:  chromosome [8 3] and value 99
+iteration62:  chromosome [0 1] and value -35
+iteration63:  chromosome [14  1] and value 357
+iteration63:  chromosome [12  3] and value 259
+iteration63:  chromosome [ 8 15] and value 135
+iteration63:  chromosome [10  0] and value 162
+iteration63:  chromosome [8 1] and value 93
+iteration63:  chromosome [0 3] and value -29
+iteration64:  chromosome [14  3] and value 363
+iteration64:  chromosome [12  1] and value 253
+iteration65:  chromosome [14  1] and value 357
+iteration65:  chromosome [12  3] and value 259
+iteration65:  chromosome [12 11] and value 283
+iteration65:  chromosome [7 0] and value 60
+iteration65:  chromosome [0 1] and value -35
+iteration66:  chromosome [14  1] and value 357
+iteration66:  chromosome [12  8] and value 274
+iteration66:  chromosome [15  3] and value 421
+iteration66:  chromosome [0 0] and value -38
+iteration66:  chromosome [0 1] and value -35
+iteration67:  chromosome [10  3] and value 171
+iteration67:  chromosome [1 1] and value -33
+iteration67:  chromosome [ 8 15] and value 135
+iteration67:  chromosome [8 0] and value 90
+iteration67:  chromosome [0 0] and value -38
+iteration68:  chromosome [8 3] and value 99
+iteration68:  chromosome [10 15] and value 207
+iteration68:  chromosome [ 8 15] and value 135
+iteration68:  chromosome [0 3] and value -29
+iteration68:  chromosome [1 0] and value -36
+iteration68:  chromosome [0 2] and value -32
+iteration69:  chromosome [10 15] and value 207
+iteration69:  chromosome [10 15] and value 207
+iteration69:  chromosome [8 3] and value 99
+iteration69:  chromosome [0 3] and value -29
+iteration69:  chromosome [5 0] and value 12
+iteration69:  chromosome [0 2] and value -32
+iteration70:  chromosome [10 15] and value 207
+iteration70:  chromosome [10 15] and value 207
+iteration70:  chromosome [10  0] and value 162
+iteration70:  chromosome [0 3] and value -29
+iteration70:  chromosome [0 3] and value -29
+iteration70:  chromosome [0 2] and value -32
+iteration71:  chromosome [10 15] and value 207
+iteration71:  chromosome [10 12] and value 198
+iteration71:  chromosome [0 3] and value -29
+iteration71:  chromosome [10  0] and value 162
+iteration71:  chromosome [0 2] and value -32
+iteration71:  chromosome [0 3] and value -29
+iteration72:  chromosome [10  9] and value 189
+iteration72:  chromosome [ 7 15] and value 105
+iteration73:  chromosome [10  8] and value 186
+iteration73:  chromosome [10  2] and value 168
+iteration73:  chromosome [ 7 15] and value 105
+iteration73:  chromosome [14 15] and value 399
+iteration73:  chromosome [0 0] and value -38
+iteration74:  chromosome [14  0] and value 354
+iteration74:  chromosome [10 14] and value 204
+iteration74:  chromosome [10  2] and value 168
+iteration74:  chromosome [ 7 15] and value 105
+iteration74:  chromosome [0 2] and value -32
+iteration74:  chromosome [0 0] and value -38
+iteration75:  chromosome [14 10] and value 384
+iteration75:  chromosome [10 12] and value 198
+iteration75:  chromosome [ 7 15] and value 105
+iteration75:  chromosome [10  0] and value 162
+iteration75:  chromosome [0 2] and value -32
+iteration75:  chromosome [0 0] and value -38
+iteration76:  chromosome [14 10] and value 384
+iteration76:  chromosome [10 12] and value 198
+iteration76:  chromosome [10 14] and value 204
+iteration76:  chromosome [7 1] and value 63
+iteration76:  chromosome [0 0] and value -38
+iteration77:  chromosome [10 14] and value 204
+iteration77:  chromosome [ 6 10] and value 64
+iteration77:  chromosome [10  9] and value 189
+iteration77:  chromosome [7 4] and value 72
+iteration77:  chromosome [0 4] and value -26
+iteration77:  chromosome [6 0] and value 34
+iteration78:  chromosome [10 14] and value 204
+iteration78:  chromosome [10  9] and value 189
+iteration78:  chromosome [7 6] and value 78
+iteration78:  chromosome [6 0] and value 34
+iteration78:  chromosome [9 8] and value 148
+iteration78:  chromosome [6 0] and value 34
+iteration79:  chromosome [10 14] and value 204
+iteration79:  chromosome [10  9] and value 189
+iteration80:  chromosome [10  9] and value 189
+iteration80:  chromosome [ 4 14] and value 36
+iteration80:  chromosome [6 8] and value 58
+iteration80:  chromosome [9 0] and value 124
+iteration80:  chromosome [ 3 12] and value 16
+iteration80:  chromosome [6 0] and value 34
+iteration81:  chromosome [10  9] and value 189
+iteration81:  chromosome [9 0] and value 124
+iteration81:  chromosome [4 8] and value 18
+iteration81:  chromosome [6 8] and value 58
+iteration81:  chromosome [6 0] and value 34
+iteration81:  chromosome [ 3 12] and value 16
+iteration82:  chromosome [5 0] and value 12
+iteration82:  chromosome [10  9] and value 189
+iteration82:  chromosome [6 4] and value 46
+iteration82:  chromosome [6 0] and value 34
+iteration83:  chromosome [14 12] and value 390
+iteration83:  chromosome [2 1] and value -27
+iteration83:  chromosome [6 3] and value 43
+iteration84:  chromosome [14 14] and value 396
+iteration84:  chromosome [6 3] and value 43
+iteration84:  chromosome [15  0] and value 412
+iteration84:  chromosome [1 8] and value -12
+iteration84:  chromosome [2 0] and value -30
+iteration86:  chromosome [15  8] and value 436
+iteration86:  chromosome [6 1] and value 37
+iteration86:  chromosome [ 4 10] and value 24
+iteration87:  chromosome [6 9] and value 61
+iteration87:  chromosome [15  0] and value 412
+iteration87:  chromosome [4 8] and value 18
+iteration88:  chromosome [10  9] and value 189
+iteration88:  chromosome [7 0] and value 60
+iteration88:  chromosome [4 8] and value 18
+iteration89:  chromosome [7 0] and value 60
+iteration89:  chromosome [10 15] and value 207
+iteration89:  chromosome [ 4 12] and value 30
+iteration90:  chromosome [15 15] and value 457
+iteration90:  chromosome [5 0] and value 12
+iteration90:  chromosome [ 6 12] and value 70
+iteration91:  chromosome [10  7] and value 183
+iteration91:  chromosome [ 7 12] and value 96
+iteration91:  chromosome [5 0] and value 12
+iteration92:  chromosome [15  4] and value 424
+iteration92:  chromosome [ 5 15] and value 57
+iteration92:  chromosome [ 4 14] and value 36
+iteration92:  chromosome [0 1] and value -35
+iteration92:  chromosome [0 8] and value -14
+iteration92:  chromosome [0 4] and value -26
+iteration93:  chromosome [12 15] and value 295
+iteration93:  chromosome [5 4] and value 24
+iteration93:  chromosome [4 8] and value 18
+iteration94:  chromosome [15  9] and value 439
+iteration94:  chromosome [0 7] and value -17
+iteration94:  chromosome [0 8] and value -14
+iteration94:  chromosome [8 6] and value 108
+iteration95:  chromosome [8 0] and value 90
+iteration95:  chromosome [15 15] and value 457
+iteration95:  chromosome [0 8] and value -14
+iteration95:  chromosome [0 5] and value -23
+iteration95:  chromosome [0 0] and value -38
+iteration95:  chromosome [0 7] and value -17
+iteration96:  chromosome [8 0] and value 90
+iteration96:  chromosome [15 15] and value 457
+iteration96:  chromosome [0 7] and value -17
+iteration96:  chromosome [0 8] and value -14
+iteration96:  chromosome [7 0] and value 60
+iteration96:  chromosome [0 5] and value -23
+iteration97:  chromosome [0 1] and value -35
+iteration97:  chromosome [14 14] and value 396
+iteration97:  chromosome [0 0] and value -38
+iteration97:  chromosome [7 8] and value 84
+iteration98:  chromosome [10 14] and value 204
+iteration98:  chromosome [14  8] and value 378
+iteration99:  chromosome [14 14] and value 396
+iteration99:  chromosome [10  8] and value 186
+iteration99:  chromosome [0 4] and value -26
+iteration0:  chromosome [14 12] and value 390
+iteration0:  chromosome [0 3] and value -29
+iteration0:  chromosome [15  5] and value 427
+iteration1:  chromosome [10  4] and value 174
+iteration1:  chromosome [15 13] and value 451
+iteration1:  chromosome [2 5] and value -15
+iteration1:  chromosome [6 0] and value 34
+iteration2:  chromosome [10 13] and value 201
+iteration2:  chromosome [15  4] and value 424
+iteration3:  chromosome [5 1] and value 15
+iteration3:  chromosome [15 13] and value 451
+iteration3:  chromosome [10 12] and value 198
+iteration3:  chromosome [10  5] and value 177
+iteration3:  chromosome [ 4 15] and value 39
+iteration3:  chromosome [0 0] and value -38
+iteration4:  chromosome [10 12] and value 198
+iteration4:  chromosome [15 13] and value 451
+iteration4:  chromosome [10 15] and value 207
+iteration5:  chromosome [10 10] and value 192
+iteration5:  chromosome [15 15] and value 457
+iteration5:  chromosome [5 0] and value 12
+iteration5:  chromosome [10 12] and value 198
+iteration6:  chromosome [10 12] and value 198
+iteration6:  chromosome [15 15] and value 457
+iteration6:  chromosome [15  0] and value 412
+iteration7:  chromosome [15 15] and value 457
+iteration7:  chromosome [12  0] and value 250
+iteration7:  chromosome [10 13] and value 201
+iteration8:  chromosome [15  7] and value 433
+iteration8:  chromosome [15 13] and value 451
+iteration8:  chromosome [10  5] and value 177
+iteration8:  chromosome [12 12] and value 286
+iteration9:  chromosome [15 15] and value 457
+iteration9:  chromosome [15  5] and value 427
+iteration9:  chromosome [10 12] and value 198
+iteration9:  chromosome [13  5] and value 315
+iteration10:  chromosome [15 15] and value 457
+iteration10:  chromosome [15  5] and value 427
+iteration10:  chromosome [10  0] and value 162
+iteration10:  chromosome [13 15] and value 345
+iteration10:  chromosome [0 6] and value -20
+iteration11:  chromosome [15 15] and value 457
+iteration11:  chromosome [9 5] and value 139
+iteration11:  chromosome [14  0] and value 354
+iteration11:  chromosome [ 5 15] and value 57
+iteration11:  chromosome [0 0] and value -38
+iteration11:  chromosome [8 6] and value 108
+iteration12:  chromosome [15  0] and value 412
+iteration12:  chromosome [14 15] and value 399
+iteration12:  chromosome [ 9 10] and value 154
+iteration12:  chromosome [8 5] and value 105
+iteration12:  chromosome [0 0] and value -38
+iteration12:  chromosome [ 9 15] and value 169
+iteration13:  chromosome [10 15] and value 207
+iteration13:  chromosome [15  6] and value 430
+iteration13:  chromosome [9 5] and value 139
+iteration13:  chromosome [ 9 15] and value 169
+iteration13:  chromosome [8 0] and value 90
+iteration14:  chromosome [10 14] and value 204
+iteration14:  chromosome [15  0] and value 412
+iteration14:  chromosome [ 9 15] and value 169
+iteration14:  chromosome [9 5] and value 139
+iteration14:  chromosome [8 0] and value 90
+iteration15:  chromosome [10 12] and value 198
+iteration15:  chromosome [15  8] and value 436
+iteration15:  chromosome [ 9 11] and value 157
+iteration15:  chromosome [0 7] and value -17
+iteration15:  chromosome [8 0] and value 90
+iteration16:  chromosome [5 8] and value 36
+iteration16:  chromosome [15  6] and value 430
+iteration16:  chromosome [8 0] and value 90
+iteration16:  chromosome [ 9 15] and value 169
+iteration17:  chromosome [ 9 15] and value 169
+iteration17:  chromosome [15  0] and value 412
+iteration17:  chromosome [5 0] and value 12
+iteration17:  chromosome [6 8] and value 58
+iteration17:  chromosome [0 0] and value -38
+iteration19:  chromosome [5 0] and value 12
+iteration19:  chromosome [15  1] and value 415
+iteration19:  chromosome [ 4 15] and value 39
+iteration19:  chromosome [10  0] and value 162
+iteration19:  chromosome [0 8] and value -14
+iteration19:  chromosome [3 0] and value -20
+iteration20:  chromosome [0 0] and value -38
+iteration20:  chromosome [15  5] and value 427
+iteration20:  chromosome [5 1] and value 15
+iteration20:  chromosome [ 4 14] and value 36
+iteration20:  chromosome [15  8] and value 436
+iteration20:  chromosome [0 0] and value -38
+iteration21:  chromosome [15  8] and value 436
+iteration21:  chromosome [15 13] and value 451
+iteration21:  chromosome [ 5 13] and value 51
+iteration22:  chromosome [15  8] and value 436
+iteration22:  chromosome [15 13] and value 451
+iteration22:  chromosome [ 5 13] and value 51
+iteration22:  chromosome [15  2] and value 418
+iteration22:  chromosome [0 0] and value -38
+iteration22:  chromosome [0 0] and value -38
+iteration23:  chromosome [15  0] and value 412
+iteration23:  chromosome [15 15] and value 457
+iteration23:  chromosome [11  5] and value 219
+iteration23:  chromosome [ 7 10] and value 90
+iteration23:  chromosome [0 9] and value -11
+iteration23:  chromosome [0 0] and value -38
+iteration24:  chromosome [15  0] and value 412
+iteration24:  chromosome [15 15] and value 457
+iteration24:  chromosome [7 0] and value 60
+iteration24:  chromosome [11 15] and value 249
+iteration24:  chromosome [11  9] and value 231
+iteration24:  chromosome [0 0] and value -38
+iteration25:  chromosome [15  0] and value 412
+iteration25:  chromosome [15  3] and value 421
+iteration25:  chromosome [11 15] and value 249
+iteration25:  chromosome [11  9] and value 231
+iteration25:  chromosome [0 0] and value -38
+iteration25:  chromosome [14  0] and value 354
+iteration26:  chromosome [15  1] and value 415
+iteration26:  chromosome [15  6] and value 430
+iteration26:  chromosome [15 15] and value 457
+iteration26:  chromosome [0 0] and value -38
+iteration26:  chromosome [0 0] and value -38
+iteration26:  chromosome [15  9] and value 439
+iteration27:  chromosome [15  3] and value 421
+iteration27:  chromosome [15 15] and value 457
+iteration27:  chromosome [15 15] and value 457
+iteration27:  chromosome [15  0] and value 412
+iteration27:  chromosome [5 0] and value 12
+iteration27:  chromosome [0 0] and value -38
+iteration28:  chromosome [15  1] and value 415
+iteration28:  chromosome [15 15] and value 457
+iteration28:  chromosome [15  0] and value 412
+iteration28:  chromosome [15  6] and value 430
+iteration28:  chromosome [0 0] and value -38
+iteration28:  chromosome [5 0] and value 12
+iteration29:  chromosome [15 13] and value 451
+iteration29:  chromosome [15  7] and value 433
+iteration29:  chromosome [15 10] and value 442
+iteration29:  chromosome [15 15] and value 457
+iteration29:  chromosome [0 0] and value -38
+iteration29:  chromosome [5 0] and value 12
+iteration30:  chromosome [15 13] and value 451
+iteration30:  chromosome [15 15] and value 457
+iteration30:  chromosome [15 15] and value 457
+iteration30:  chromosome [15  5] and value 427
+iteration30:  chromosome [0 1] and value -35
+iteration30:  chromosome [5 0] and value 12
+iteration31:  chromosome [15 15] and value 457
+iteration31:  chromosome [15 15] and value 457
+iteration31:  chromosome [12 13] and value 289
+iteration31:  chromosome [15  5] and value 427
+iteration31:  chromosome [0 2] and value -32
+iteration31:  chromosome [5 0] and value 12
+iteration32:  chromosome [15 15] and value 457
+iteration32:  chromosome [15 14] and value 454
+iteration32:  chromosome [15  5] and value 427
+iteration32:  chromosome [12 13] and value 289
+iteration32:  chromosome [5 2] and value 18
+iteration32:  chromosome [0 0] and value -38
+iteration33:  chromosome [15  0] and value 412
+iteration33:  chromosome [15 15] and value 457
+iteration33:  chromosome [9 5] and value 139
+iteration33:  chromosome [15 13] and value 451
+iteration33:  chromosome [0 0] and value -38
+iteration34:  chromosome [15 13] and value 451
+iteration34:  chromosome [15 15] and value 457
+iteration34:  chromosome [10  5] and value 177
+iteration34:  chromosome [11  0] and value 204
+iteration35:  chromosome [15 13] and value 451
+iteration35:  chromosome [15 15] and value 457
+iteration35:  chromosome [10  5] and value 177
+iteration35:  chromosome [11  4] and value 216
+iteration36:  chromosome [15  5] and value 427
+iteration36:  chromosome [15 15] and value 457
+iteration37:  chromosome [15  3] and value 421
+iteration37:  chromosome [15 15] and value 457
+iteration37:  chromosome [0 4] and value -26
+iteration37:  chromosome [14  0] and value 354
+iteration38:  chromosome [15 15] and value 457
+iteration38:  chromosome [11  3] and value 213
+iteration38:  chromosome [8 0] and value 90
+iteration38:  chromosome [12 12] and value 286
+iteration38:  chromosome [0 4] and value -26
+iteration40:  chromosome [7 1] and value 63
+iteration40:  chromosome [15 14] and value 454
+iteration40:  chromosome [8 2] and value 96
+iteration41:  chromosome [0 6] and value -20
+iteration41:  chromosome [14  2] and value 360
+iteration41:  chromosome [0 1] and value -35
+iteration41:  chromosome [14 12] and value 390
+iteration42:  chromosome [14 12] and value 390
+iteration42:  chromosome [14  3] and value 363
+iteration43:  chromosome [14  3] and value 363
+iteration43:  chromosome [14 13] and value 393
+iteration44:  chromosome [14 11] and value 387
+iteration44:  chromosome [14  5] and value 369
+iteration45:  chromosome [14 11] and value 387
+iteration45:  chromosome [9 5] and value 139
+iteration45:  chromosome [11  5] and value 219
+iteration46:  chromosome [11 13] and value 243
+iteration46:  chromosome [14  3] and value 363
+iteration46:  chromosome [9 5] and value 139
+iteration46:  chromosome [ 7 15] and value 105
+iteration47:  chromosome [15  3] and value 421
+iteration48:  chromosome [15  7] and value 433
+iteration48:  chromosome [2 3] and value -21
+iteration48:  chromosome [11 13] and value 243
+iteration49:  chromosome [11 13] and value 243
+iteration49:  chromosome [15  7] and value 433
+iteration50:  chromosome [15  3] and value 421
+iteration50:  chromosome [11  5] and value 219
+iteration50:  chromosome [0 5] and value -23
+iteration51:  chromosome [6 5] and value 49
+iteration51:  chromosome [11  3] and value 213
+iteration52:  chromosome [11  3] and value 213
+iteration52:  chromosome [6 5] and value 49
+iteration53:  chromosome [11  3] and value 213
+iteration53:  chromosome [14 15] and value 399
+iteration53:  chromosome [5 5] and value 27
+iteration53:  chromosome [ 2 15] and value 15
+iteration53:  chromosome [2 0] and value -30
+iteration54:  chromosome [14  3] and value 363
+iteration54:  chromosome [11 15] and value 249
+iteration54:  chromosome [2 5] and value -15
+iteration55:  chromosome [14 15] and value 399
+iteration55:  chromosome [11  3] and value 213
+iteration56:  chromosome [ 9 15] and value 169
+iteration56:  chromosome [15 15] and value 457
+iteration56:  chromosome [0 3] and value -29
+iteration56:  chromosome [15 15] and value 457
+iteration57:  chromosome [15 10] and value 442
+iteration57:  chromosome [15 15] and value 457
+iteration57:  chromosome [9 5] and value 139
+iteration58:  chromosome [15 15] and value 457
+iteration58:  chromosome [15 10] and value 442
+iteration58:  chromosome [0 7] and value -17
+iteration58:  chromosome [10 11] and value 195
+iteration58:  chromosome [0 0] and value -38
+iteration58:  chromosome [ 2 15] and value 15
+iteration59:  chromosome [15  5] and value 427
+iteration59:  chromosome [15 15] and value 457
+iteration59:  chromosome [11 11] and value 237
+iteration59:  chromosome [ 2 15] and value 15
+iteration59:  chromosome [0 7] and value -17
+iteration59:  chromosome [0 0] and value -38
+iteration60:  chromosome [15  5] and value 427
+iteration60:  chromosome [15 15] and value 457
+iteration60:  chromosome [ 2 15] and value 15
+iteration60:  chromosome [11  7] and value 225
+iteration60:  chromosome [2 0] and value -30
+iteration61:  chromosome [15 15] and value 457
+iteration61:  chromosome [5 5] and value 27
+iteration61:  chromosome [11  7] and value 225
+iteration61:  chromosome [ 2 15] and value 15
+iteration61:  chromosome [10  8] and value 186
+iteration62:  chromosome [15 15] and value 457
+iteration62:  chromosome [11  7] and value 225
+iteration62:  chromosome [15 13] and value 451
+iteration62:  chromosome [0 0] and value -38
+iteration62:  chromosome [14 12] and value 390
+iteration63:  chromosome [15 15] and value 457
+iteration63:  chromosome [15 13] and value 451
+iteration63:  chromosome [ 9 15] and value 169
+iteration63:  chromosome [11  4] and value 216
+iteration63:  chromosome [0 0] and value -38
+iteration64:  chromosome [15 15] and value 457
+iteration64:  chromosome [15 13] and value 451
+iteration64:  chromosome [13  4] and value 312
+iteration64:  chromosome [11 15] and value 249
+iteration64:  chromosome [0 1] and value -35
+iteration65:  chromosome [15  7] and value 433
+iteration65:  chromosome [15 15] and value 457
+iteration65:  chromosome [13 15] and value 345
+iteration65:  chromosome [11  4] and value 216
+iteration65:  chromosome [0 1] and value -35
+iteration66:  chromosome [15  7] and value 433
+iteration66:  chromosome [15  4] and value 424
+iteration66:  chromosome [13  4] and value 312
+iteration66:  chromosome [11 15] and value 249
+iteration66:  chromosome [0 9] and value -11
+iteration66:  chromosome [0 6] and value -20
+iteration67:  chromosome [12  4] and value 262
+iteration67:  chromosome [15  7] and value 433
+iteration67:  chromosome [11  7] and value 225
+iteration67:  chromosome [13  0] and value 300
+iteration67:  chromosome [0 9] and value -11
+iteration67:  chromosome [0 6] and value -20
+iteration68:  chromosome [5 7] and value 33
+iteration68:  chromosome [15  0] and value 412
+iteration68:  chromosome [15  7] and value 433
+iteration68:  chromosome [8 4] and value 102
+iteration69:  chromosome [15  0] and value 412
+iteration69:  chromosome [15 14] and value 454
+iteration69:  chromosome [10  7] and value 183
+iteration69:  chromosome [0 1] and value -35
+iteration70:  chromosome [15  0] and value 412
+iteration70:  chromosome [15 14] and value 454
+iteration70:  chromosome [14  7] and value 375
+iteration70:  chromosome [5 0] and value 12
+iteration70:  chromosome [0 6] and value -20
+iteration70:  chromosome [0 7] and value -17
+iteration71:  chromosome [15 12] and value 448
+iteration71:  chromosome [15 10] and value 442
+iteration71:  chromosome [7 7] and value 81
+iteration71:  chromosome [6 0] and value 34
+iteration71:  chromosome [0 6] and value -20
+iteration71:  chromosome [0 7] and value -17
+iteration72:  chromosome [15 12] and value 448
+iteration72:  chromosome [15 10] and value 442
+iteration72:  chromosome [5 0] and value 12
+iteration72:  chromosome [ 7 15] and value 105
+iteration72:  chromosome [11  7] and value 225
+iteration72:  chromosome [0 6] and value -20
+iteration73:  chromosome [15 12] and value 448
+iteration73:  chromosome [15  1] and value 415
+iteration73:  chromosome [11  7] and value 225
+iteration73:  chromosome [ 7 15] and value 105
+iteration74:  chromosome [15 15] and value 457
+iteration74:  chromosome [15  0] and value 412
+iteration74:  chromosome [11 14] and value 246
+iteration74:  chromosome [15  0] and value 412
+iteration75:  chromosome [15  0] and value 412
+iteration76:  chromosome [15  0] and value 412
+iteration76:  chromosome [15  0] and value 412
+iteration76:  chromosome [10  9] and value 189
+iteration76:  chromosome [ 9 15] and value 169
+iteration76:  chromosome [1 7] and value -15
+iteration76:  chromosome [ 3 13] and value 19
+iteration77:  chromosome [15  0] and value 412
+iteration77:  chromosome [15  1] and value 415
+iteration77:  chromosome [9 9] and value 151
+iteration77:  chromosome [10 15] and value 207
+iteration78:  chromosome [15  0] and value 412
+iteration78:  chromosome [15  2] and value 418
+iteration78:  chromosome [10  5] and value 177
+iteration78:  chromosome [9 7] and value 145
+iteration78:  chromosome [ 3 11] and value 13
+iteration78:  chromosome [1 7] and value -15
+iteration79:  chromosome [15  2] and value 418
+iteration79:  chromosome [15  0] and value 412
+iteration79:  chromosome [5 2] and value 18
+iteration79:  chromosome [10  5] and value 177
+iteration80:  chromosome [15  2] and value 418
+iteration80:  chromosome [15  0] and value 412
+iteration80:  chromosome [ 5 12] and value 48
+iteration80:  chromosome [10  2] and value 168
+iteration81:  chromosome [15  0] and value 412
+iteration81:  chromosome [15  2] and value 418
+iteration81:  chromosome [15  4] and value 424
+iteration82:  chromosome [15  0] and value 412
+iteration82:  chromosome [15  4] and value 424
+iteration82:  chromosome [15  7] and value 433
+iteration82:  chromosome [13  0] and value 300
+iteration83:  chromosome [15  8] and value 436
+iteration83:  chromosome [15  7] and value 433
+iteration83:  chromosome [15  0] and value 412
+iteration83:  chromosome [15  4] and value 424
+iteration83:  chromosome [0 4] and value -26
+iteration83:  chromosome [13  8] and value 324
+iteration84:  chromosome [15  8] and value 436
+iteration84:  chromosome [15  7] and value 433
+iteration84:  chromosome [15 12] and value 448
+iteration84:  chromosome [15  4] and value 424
+iteration84:  chromosome [12 12] and value 286
+iteration84:  chromosome [5 0] and value 12
+iteration85:  chromosome [15 12] and value 448
+iteration85:  chromosome [15  8] and value 436
+iteration85:  chromosome [15  1] and value 415
+iteration85:  chromosome [15  7] and value 433
+iteration85:  chromosome [12 12] and value 286
+iteration85:  chromosome [1 0] and value -36
+iteration86:  chromosome [15 12] and value 448
+iteration86:  chromosome [6 8] and value 58
+iteration86:  chromosome [15  3] and value 421
+iteration86:  chromosome [15  3] and value 421
+iteration86:  chromosome [1 0] and value -36
+iteration86:  chromosome [12 12] and value 286
+iteration87:  chromosome [15 14] and value 454
+iteration87:  chromosome [15  0] and value 412
+iteration87:  chromosome [9 4] and value 136
+iteration87:  chromosome [15 11] and value 445
+iteration87:  chromosome [1 8] and value -12
+iteration87:  chromosome [6 0] and value 34
+iteration88:  chromosome [15 11] and value 445
+iteration88:  chromosome [15 14] and value 454
+iteration88:  chromosome [9 0] and value 124
+iteration88:  chromosome [15  4] and value 424
+iteration88:  chromosome [1 0] and value -36
+iteration88:  chromosome [6 8] and value 58
+iteration89:  chromosome [15 11] and value 445
+iteration89:  chromosome [15 14] and value 454
+iteration89:  chromosome [1 4] and value -24
+iteration89:  chromosome [15  0] and value 412
+iteration89:  chromosome [5 8] and value 36
+iteration89:  chromosome [2 0] and value -30
+iteration90:  chromosome [15 11] and value 445
+iteration90:  chromosome [10 14] and value 204
+iteration90:  chromosome [15  8] and value 436
+iteration90:  chromosome [5 0] and value 12
+iteration90:  chromosome [2 0] and value -30
+iteration90:  chromosome [1 4] and value -24
+iteration91:  chromosome [ 4 11] and value 27
+iteration91:  chromosome [15  8] and value 436
+iteration91:  chromosome [ 5 14] and value 54
+iteration91:  chromosome [10  0] and value 162
+iteration91:  chromosome [2 0] and value -30
+iteration91:  chromosome [1 8] and value -12
+iteration92:  chromosome [5 8] and value 36
+iteration92:  chromosome [15 11] and value 445
+iteration92:  chromosome [ 4 15] and value 39
+iteration92:  chromosome [5 0] and value 12
+iteration92:  chromosome [1 8] and value -12
+iteration92:  chromosome [2 0] and value -30
+iteration94:  chromosome [ 5 10] and value 42
+iteration94:  chromosome [15 15] and value 457
+iteration95:  chromosome [ 5 15] and value 57
+iteration95:  chromosome [15 10] and value 442
+iteration96:  chromosome [ 5 15] and value 57
+iteration96:  chromosome [8 5] and value 105
+iteration96:  chromosome [0 8] and value -14
+iteration96:  chromosome [15 14] and value 454
+iteration97:  chromosome [0 5] and value -23
+iteration97:  chromosome [15 14] and value 454
+iteration97:  chromosome [12 15] and value 295
+iteration97:  chromosome [ 5 15] and value 57
+iteration98:  chromosome [ 9 15] and value 169
+iteration98:  chromosome [15 13] and value 451
+iteration98:  chromosome [0 8] and value -14
+iteration98:  chromosome [15 15] and value 457
+iteration98:  chromosome [0 8] and value -14
+iteration98:  chromosome [0 5] and value -23
+iteration99:  chromosome [15 13] and value 451
+iteration99:  chromosome [15 15] and value 457
+iteration99:  chromosome [8 0] and value 90
