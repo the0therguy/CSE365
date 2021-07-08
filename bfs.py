@@ -1,7 +1,7 @@
 from queue import Queue
 
 
-def dfs(graph, start, goal):
+def bfs(graph, start, goal):
     visited = {}
     level = {}
     parent = {}
@@ -45,5 +45,5 @@ if __name__ == '__main__':
         "H": ["G", "F"]
     }
 
-    a = dfs(adj_list, list(adj_list.keys())[0], "C")
+    a = bfs(adj_list, list(adj_list.keys())[0], "C")
     print(a)
